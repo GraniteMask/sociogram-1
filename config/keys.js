@@ -1,5 +1,3 @@
-
-
 //below code is after deployment
 
 if(process.env.NODE_ENV==='production'){
