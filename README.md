@@ -29,3 +29,11 @@ Link: https://sociogram-1.herokuapp.com/
 9) Like and unlike posts
 10) Forgot password feature with forgot password secured email
 11) Real-time display of your followers and followings
+
+### Sign Up Welcome Mail
+![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/Sign Up Welcome Mail.png?raw=true)
+
+### Password Reset Mail
+![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/Password Reset Mail.png?raw=true)
+
+NOTE: Email feature is not currently available right now because its a premium service of SendGrid. So it has been turned off.
