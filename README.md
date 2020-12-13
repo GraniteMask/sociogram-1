@@ -1,4 +1,4 @@
-# # Sociogram-1
+## Sociogram-1
 Sociogram is a demo Instagram web app with some custom features 
 
 Link: https://sociogram-1.herokuapp.com/
