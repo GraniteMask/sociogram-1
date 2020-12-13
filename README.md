@@ -1,11 +1,11 @@
-## Sociogram-1
+# Sociogram-1
 Sociogram is a demo Instagram web app with some custom features 
 
 Link: https://sociogram-1.herokuapp.com/
 
 ![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
 
-# SNEEK-PEEK of technologies I used:
+## SNEEK-PEEK of technologies I used:
 
 1) MERN stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 2) Database : Mongo ATLAS
@@ -16,7 +16,7 @@ Link: https://sociogram-1.herokuapp.com/
 7) Backend Packages: Nodemailer, Nodemon, Express etc.
 8) Deployment: Heroku
 
-# Highlighted Features:
+## Highlighted Features:
 
 1) Creating profile
 2) Login and SignUp using JWT
