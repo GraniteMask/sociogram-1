@@ -3,6 +3,8 @@ Sociogram is a demo Instagram web app with some custom features
 
 Link: https://sociogram-1.herokuapp.com/
 
+Demo Video Link: https://www.linkedin.com/posts/ratnadeep-das-choudhury-623605197_nodejs-react-mongodb-activity-6706268132539023360-3Ypq?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 ![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
 
 ## SNEEK-PEEK of technologies I used:
